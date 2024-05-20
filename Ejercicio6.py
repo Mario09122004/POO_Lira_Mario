@@ -1,4 +1,4 @@
-n="n"
+
 x = float(input("Escrie un numero: "))
 y = float(input("Escrie otro numero: "))
 if x==y:
