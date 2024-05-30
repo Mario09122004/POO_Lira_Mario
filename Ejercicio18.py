@@ -13,4 +13,4 @@ for x in productos:
 print("///////////////////////////////////////////////")
 
 for x in productos:
-    print(f"El descuento de {x} es de {productos[x]}")
+    print(f"El precio con descuento de {x} es de {productos[x]}")
