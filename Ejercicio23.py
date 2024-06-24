@@ -25,7 +25,4 @@ Ricardo.trabaja()
 Ricardo.come()
 Ricardo.duerme()
 print(f"Edad de {Ricardo.nombre}: {Ricardo.edad}")
-
-
-
-#Clases y objetos
+print("/////////////////////////////")
