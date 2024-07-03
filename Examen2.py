@@ -104,7 +104,6 @@ class Piloto():
         #Insertar opciones para recolectar o usar item
     
     def hacer_mision(self):
-        #meterle un menú
         self.mision.mostrar_estado()
         
 #Dependencia
